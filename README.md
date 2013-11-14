@@ -25,7 +25,8 @@ Instruction for organizing correct work of the self installable packages you may
 In compliance with this instruction the script will be be able to execute of installations automatically.
 
 install_me.dart
-```
+
+```dart
 import 'package:package_installer/package_installer.dart';
 
 void main() {
@@ -53,7 +54,8 @@ This procedure can be responsible to detection of that fact the your package alr
 Example of installation script.
 
 bin/_install.dart
-```
+
+```dart
 import 'dart:io';
 import 'package:path/path.dart' as pathos;
 
