@@ -1,7 +1,7 @@
 #Package Intstaller
 ==========
 
-Version: 0.0.1
+Version: 0.0.2
 
 The package installer intended for the following purpose.
 
@@ -60,7 +60,7 @@ import 'dart:io';
 import 'package:path/path.dart' as pathos;
 
 void main(List<String> args) {
-  print("packageRoot: ${Platform.packageRoot}");
+  new Program().run(args);
 }
 
 class Program {

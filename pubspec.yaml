@@ -1,5 +1,5 @@
 name: package_installer
-version: 0.0.1
+version: 0.0.2
 author: Andrew Mezoni <andrew.mezoni@gmail.com>
 description: Package installer for Dart packages that require the automatic self installation procedure.
 homepage: https://github.com/mezoni/package_installer

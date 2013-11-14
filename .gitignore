@@ -1,0 +1,8 @@
+.DS_Store
+packages
+.project
+pubspec.lock
+*.dll
+*.o
+*.obj
+*.so
